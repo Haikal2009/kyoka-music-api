@@ -1,0 +1,4 @@
+node_modules/
+audius_tracks.json
+*.log
+.env
